@@ -1,0 +1,8 @@
+.DS_Store
+.obsidian/
+.superpowers/
+node_modules/
+.env
+.env.*
+*.local
+raw/
