@@ -11,4 +11,6 @@ test("README describes the local browser-to-Obsidian workflow", () => {
   assert.match(readme, /raw\/clips/);
   assert.match(readme, /raw\/assets/);
   assert.doesNotMatch(readme, /API_KEY|tomd\.ou\.al|填入 API Key|远程转换服务/);
+  assert.match(readme, /MIT License/);
+  assert.match(readme, /CONTRIBUTING\.md/);
 });

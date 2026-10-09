@@ -149,6 +149,16 @@ node --check rawify-remote-batch.js
 node --check rawify-remote-single.js
 ```
 
+## 参与贡献
+
+欢迎围绕网页正文提取、Obsidian 兼容性和本地图片整理提交改进。提交前请运行上面的本地检查，并确认示例中没有真实网址、个人 Vault 路径或访问凭据。
+
+详细流程见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+
+## 许可证
+
+本项目采用 MIT License，详见 [LICENSE](LICENSE)。
+
 ## 说明
 
 文章内容和图片的版权、访问权限及保存范围由使用者自行确认。仓库只提供本地整理和归档脚本，不上传 Vault 内容，也不包含个人 Vault 配置。
