@@ -1,6 +1,6 @@
 # 本地 Obsidian 网页采集流程 Implementation Plan
 
-> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
+本文档按任务清单记录实现步骤，步骤使用复选框（`- [ ]`）跟踪完成情况。
 
 **Goal:** 将仓库更新为“网页端提取内容、剪贴板传递、QuickAdd 本地归档”的 Obsidian 网页采集工具，并同步降低文档中的 AI 表述。
 
@@ -8,7 +8,7 @@
 
 **Tech Stack:** Tampermonkey userscript, Obsidian QuickAdd User Script, Node.js built-in test runner, Node.js `fetch`/filesystem APIs.
 
-**Spec:** `docs/superpowers/specs/2026-10-09-local-obsidian-clipper-design.md`
+**Spec:** `docs/specs/2026-10-09-local-obsidian-clipper-design.md`
 
 ## Global Constraints
 
